@@ -1,4 +1,7 @@
 # display_ad_generator
+
+https://huggingface.co/spaces/pavelevap/travel_ad_generator
+
 Asked GPT4 to build a gradio app that generates travel display ads - here's what happened
 
 <img width="729" alt="image" src="https://user-images.githubusercontent.com/13198544/225162564-4ccb5d4e-fb47-4650-825c-f2e893faff5b.png">
